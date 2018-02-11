@@ -6,9 +6,12 @@ This contains source code for my presentation on success in industry, including 
 
 DISCLAIMER: This presentation is a collection of minimally-researched claims based on stereotypes developed over the course of a relatively brief statistics career. Contradictions and caveats to all of the proposed rules is expected and encouraged. This is a discussion piece.
 
-# Compiling
+# How to compile the presentation slides
 
-Directions here assume that you are familiar with R and Rstudio (specifically how to knit to pdf) and can install any missing R packages that you encounter.
+Directions here assume that
+
+- you are familiar with R and Rstudio (specifically how to knit to pdf) and can install any missing R packages that you encounter, and
+- you have already cloned this repo.
 
 To produce the slide presentation, first run `/images/education.R` to produce `/images/education.pdf`.
 
