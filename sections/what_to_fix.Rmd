@@ -1,0 +1,17 @@
+## Case study: The What-to-Fix project
+
+Background:
+
+- "Technical debt" (TD) is a kind of poor design in software
+- The Chromium web browser issue tracker has 800k issues. Some are TD issues, some are not
+
+Task: Automatically flag TD issues
+
+0. Build a web scraper -> mongo database of issues
+1. Convince labelers to encode 'degree of TD', not only 0,1
+2. Build a classifier on text features and issue metadata
+3. Recommend next issues to label
+4. Compose a performance report
+5. Iterate 2-4, automating/building/improving 
+6. Translate results for application or publication
+

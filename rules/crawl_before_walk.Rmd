@@ -1,0 +1,17 @@
+## Rule `r rule_order$crawl_before_walk`: Crawl before you walk
+
+**Problem:** Each run of the analysis script takes $>20$ seconds.
+
+**Solution:** Subsample the data.
+\newline
+\newline
+
+**Problem:** Overwhelmed with trying to apply a new tool or theory. 
+
+**Solution:** Construct a simplest-case example. Example: try binary regression before general multinomial regression.
+\newline
+
+Examples:
+
+- 3 months wasted on a complicated Hidden Markov model for changes in customer behaviour over time
+- 2 months wasted building a sophisticated data entry assistant

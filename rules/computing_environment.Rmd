@@ -1,0 +1,9 @@
+
+## Rule `r rule_order$computing_environment`: The computing/internet environment matters
+
+Before taking a job, ask whether you'll
+
+- be allowed to install your favorite Python distribution?
+- be allowed to visit youtube?
+- have write permissions on an internal wiki?
+- have access to servers for large computing jobs? With IT support?

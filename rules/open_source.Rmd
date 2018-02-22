@@ -1,0 +1,33 @@
+## Rule `r rule_order$open_source`: Open source is better than closed source
+
+![Data science job trends for R (blue) and SAS (orange) (Hasty screenshot from http://r4stats.com/articles/popularity/)](images/r_versus_sas.png)
+
+
+## Rule `r rule_order$open_source`: Open source is better than closed source
+
+![Free data on openml.org](images/openml_data.png)
+
+## Rule `r rule_order$open_source`: Open source is better than closed source
+
+Open source gave me my favorite tools:
+
+- General-purpose regression/classifier: `LightGBM`, `Xgboost`
+- Data pipelines: Python `pandas`, R `data.table`
+- Databases: `mongo`, `sqlite3`
+- Reporting: `LaTeX`, `Rmarkdown`
+- Starting to tinker with deep learning in `keras`
+
+
+## Rule `r rule_order$open_source`: Open source is better than closed source
+
+![I've never seen this show](images/xgbfever.png)
+
+
+## Rule `r rule_order$open_source`: Open source is better than closed source
+
+[https://github.com/zkurtz/when_will_it_end](https://github.com/zkurtz/when_will_it_end)
+
+![My tiny contribution to open source](images/when_will_it_end.png)
+
+
+

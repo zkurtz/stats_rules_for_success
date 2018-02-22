@@ -1,0 +1,24 @@
+## Rule `r rule_order$embrace_social_work`: Embrace data outreach
+
+What-to-Fix project: 4 weeks to build a database that already exists!
+\newline
+\newline
+Cyber Automated Unconventional Sensor Environment (CAUSE):
+
+- Success of program relied on access to cyber incident data
+- Getting access required *years* of building relationships
+
+How do you react to a big jump in a time series?
+
+a. Fancy change point detection model
+b. Pick up the phone
+
+
+## Rule `r rule_order$embrace_social_work`: Embrace data outreach
+
+![A self-reminder to care for people as much as data](images/intimacy.jpg)
+
+
+## Rule `r rule_order$embrace_social_work`: Embrace data outreach
+
+![A subspecialty in data science](images/social_work.jpg)

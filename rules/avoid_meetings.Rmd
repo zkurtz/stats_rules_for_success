@@ -1,0 +1,12 @@
+## Rule `r rule_order$avoid_meetings`: Your time is too valuable for most meetings
+
+... possibly including this one!
+
+For example, my meetings priorities in descending order:
+
+- Present by invitation
+- Informal lunch/coffee
+- Interview: hiring or applying
+- Learning by seminars, conferences
+- Tradition! Team "status update" -- Use email/wiki instead
+- Passive membership in professional associations -- Why? WHY?

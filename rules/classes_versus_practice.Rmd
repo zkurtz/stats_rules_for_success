@@ -1,0 +1,11 @@
+## Rule `r rule_order$classes_versus_practice`: Learn-by-doing is better than classes
+
+Industry cares more about what you can build than what you know. Replace passive learning with active practice
+
+![Why do educated people have higher income? (Inspired by *The Case Against Education*, Bryan Caplan, 2018)](images/education.pdf)
+
+<!-- - Practioners apply little of what they learned in school -->
+<!-- - To employers, education = skills + perseverance + conformity -->
+<!-- - Deliberate practice is the primary source of skill -->
+
+<!-- 90% of what I use from school: metrics, cross-validation, nonparametric regression, simulation of distributions (bootstrap, Monte Carlo) -->

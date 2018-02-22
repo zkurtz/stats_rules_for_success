@@ -1,0 +1,13 @@
+## Rule `r rule_order$you_might_not_be_a_statistician`: You might not be a statistician
+
+Many people think "statistician" is little more than t-tests, Chi-square tests, power calculations
+\newline
+\newline
+Two choices: (a) teach everyone what statistician means, or (b) choose a label that people already understand
+\newline
+\newline
+Some alternative labels:
+
+- data scientist
+- machine learning research scientist
+- <subject area> quantitative analyst

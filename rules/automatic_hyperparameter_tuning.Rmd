@@ -1,0 +1,15 @@
+## Rule `r rule_order$automatic_hyperparameter_tuning`: Use automatic hyperparameter tuners
+
+Recurring scenario: You repeatedly fit a model to a dataset, tweaking things until you get good results
+
+Goal: Replace manual experimentation with automatic search. Existing tuners include
+
+- Python: `hyperopt`, `SMAC3`, many others
+- R: `mlrMBO`, `caret`
+
+Improvements needed:
+
+- Regularization
+- Expressions of uncertainty for the selected optimum
+- Diagnostics to help decide when to stop tuning
+- Customization for specific models

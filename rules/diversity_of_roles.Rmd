@@ -1,0 +1,10 @@
+
+## Rule `r rule_order$diversity_of_roles`: Decide what you're willing to sell
+
+Scholarly statistical analysis tasks make up only a small fraction of the tasks that you'll get asked to do.
+
+- A stats Ph.D. friend: "I spend almost all my time doing complicated SQL queries and data cleaning in SAS"
+- I spent 6 months leading a team to obtain and standardize cyber security incident data 
+- Turning an analysis crank: implementing a pre-defined set of models
+- Shady correlation analysis: "we need a story"
+- Instruments of greed, surveillance, war

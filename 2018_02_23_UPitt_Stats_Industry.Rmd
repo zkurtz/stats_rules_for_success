@@ -1,0 +1,62 @@
+---
+title: "A statistician's 12 rules for success in industry"
+author: Zach Kurtz
+date: 2018-02-23
+output: 
+    beamer_presentation
+---
+
+```{r echo = FALSE, warning = FALSE, results = 'hide'}
+# THIS GENERATES THE MAIN CONTENT AS A TEMPORARY FILE, SOURCED IN THE NEXT BLOCK BELOW
+library(knitr)
+fcat = function(x) cat(x, file = TEMP, append = TRUE)
+# Specify 
+#  (1) which items are rules and 
+#  (2) the order all of the content
+# In such a way that any changes to the order lead to automatic
+#   updating of the rule numbers
+ordered_content = c(
+    'sections/introduction',
+    'rules/you_might_not_be_a_statistician',
+    'rules/diversity_of_roles',
+    'sections/what_to_fix',
+    'rules/automatic_hyperparameter_tuning',
+    'rules/embrace_social_work',
+    'rules/crawl_before_walk',
+    'rules/version_control',
+    'rules/open_source',
+    'rules/top_journal_in_industry',
+    'rules/computing_environment',
+    'rules/apply_often',
+    'rules/classes_versus_practice',
+    'rules/avoid_meetings')
+#stopifnot(all(is.element(rules, ordered_content)))
+
+TEMP = 'temp_MAIN_CONTENT_Rmd'
+#stopifnot(!is.element(TEMP, list.files())) 
+rule_order = list()
+rule_counter = 0
+for(content_string in ordered_content){
+    fcat(paste0("\n```{r child = '", content_string,  ".Rmd'}\n```"))
+    parts = strsplit(content_string, "/")[[1]]
+    if(parts[1] == 'rules'){
+        rule_counter = rule_counter + 1
+        rule_order[[parts[2]]] = rule_counter
+    }
+}
+```
+
+
+```{r child = 'temp_MAIN_CONTENT_Rmd'}
+```
+
+```{r echo = FALSE, warning = FALSE, results = 'hide'}
+# COMMENT THIS OUT TO BE ABLE TO DEBUG THE MAIN CONTENT
+system(paste("rm", TEMP))
+```
+
+## Thank you!
+
+Contact: `zkurtz` at `gmail`
+
+Slides source: https://github.com/zkurtz/stats_rules_for_success

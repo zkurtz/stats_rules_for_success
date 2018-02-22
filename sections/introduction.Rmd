@@ -1,0 +1,60 @@
+## Outline
+
+Why industry?
+
+Zach who?
+
+12 rules
+
+## Why industry?
+
+```{r echo = FALSE}
+sf = data.frame(
+    matrix(c(
+        "Best pay",                "Rigid hours/location/expectations",
+        "No pressure to publish",  "Your discoveries become company secrets",
+        "Your output matters now", "You get bossed around",
+        "Closer teamwork",         "Must adopt the team's tools"), 
+        byrow = TRUE, ncol = 2))
+names(sf) = c("Pros", "Cons")
+knitr::kable(sf)
+```
+
+
+## Zach who?
+
+- 1983: born in PA
+
+- 1987-2001: WV
+
+- 2001-2009: VA -> Delaware -> DC
+
+- 2009-present: Pittsburgh
+
+    - Graduate school
+    - Numerious side gigs: tutor, edit, teach, consult
+    - PNC Bank
+    - Software Engineering Institute
+
+
+## Why should I listen to Zach Kurtz?
+
+A sample of my track record:
+
+```{r echo = FALSE}
+sf = data.frame(
+    matrix(c(
+        "Ph.D. done in 4.5 years", "No awards or publications",
+        "Broadly applicable skills", "Lack of specialization",
+        "Landed a good job",       "P(rejected|applied) = 0.9",
+        "Rich on bitcoin and housing", "Missed out on the stock market",
+        "Largely a self-made man", "Not sure why I'm working so hard",
+        "Married with two kids",   "Have not learned Japanese"), 
+        byrow = TRUE, ncol = 2))
+names(sf) = c("Successes", "Failures")
+knitr::kable(sf)
+```
+
+## Why should I listen to Zach Kurtz?
+
+![My kind of award](images/pingpong.jpg)

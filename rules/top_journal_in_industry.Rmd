@@ -1,0 +1,13 @@
+## Rule `r rule_order$top_journal_in_industry`: Use stackexchange, industry's top journal
+
+![My first stackoverflow question, nearly 5 years ago](images/first_stackoverflow_question.png)
+
+
+## Rule `r rule_order$top_journal_in_industry`: Use stackexchange, industry's top journal
+
+![A few of my accounts on stackexchange](images/stackexchange_accounts.png)
+
+
+## Rule `r rule_order$top_journal_in_industry`: Use stackexchange, industry's top journal
+
+![A few of my crossvalidated questions](images/crossvalidated_questions.png)

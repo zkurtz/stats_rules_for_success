@@ -1,0 +1,9 @@
+## Rule `r rule_order$version_control`: Use version control software (git, svn, mercurial)
+
+Version control software use cases:
+
+- Create an easy-to-navigate history of your edits; easy to return to previous versions
+- Easily share your work with the world on github.com, bitbucket.org, etc.
+- Streamline collaboration with co-authors: 
+    - updating your shared copy is almost as easy as 'git push'
+    - semi-automatically sort things out if you both edit the same document at the same time

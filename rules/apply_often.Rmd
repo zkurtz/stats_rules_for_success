@@ -1,0 +1,16 @@
+## Rule `r rule_order$apply_often`: Apply for a job at least once every 3 months
+
+Why?
+
+- Learn how to interview for your own team
+- Learn what the market is looking for
+- Reduce the chance of missing an exceptional opportunity
+
+Caveat: Loyalty matters
+
+```{r echo = FALSE, fig.cap="Caption", fig.width=4,fig.height=3}
+years = seq(0, 5, length.out = 25)
+plot(years, 60*exp(-0.6*years), type = 'l', ylim = c(0, 60), bty = 'n',
+     xlab = 'years in the same job',
+     ylab = 'loyalty premium (%)')
+```
